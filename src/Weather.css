@@ -1,0 +1,14 @@
+.placeHolder{
+    font-family: arial, sans-serif;
+        border: 1px solid #dadde1;
+        padding: 50px;
+        border-radius: 10px;
+        margin: 50px;
+        color: rgb(50, 47, 47);
+}
+h2{
+    text-align: left;
+}
+ul{
+    text-align: left;
+}

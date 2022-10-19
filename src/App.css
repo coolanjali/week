@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  
+}
+.Weather {
+  border-radius: 10px;
 }
 
 .App-logo {
